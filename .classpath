@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/cucumber-core-1.2.5 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/cucumber-reporting-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/junit-4.12 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/rest-assured-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/groovy-all-2.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/groovy-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/groovy-json-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/groovy-xml-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/json-path-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/rest-assured-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/rest-assured-common-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/restspecific/xml-path-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/310231385/Desktop/Updated Jars/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
